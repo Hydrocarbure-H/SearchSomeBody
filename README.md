@@ -1,6 +1,6 @@
 # SearchSomeBody
 
-SearchSomeBody est un logiciel de recherche d'informations, écrit en Pyton.
+SearchSomeBody est un logiciel de recherche d'informations, écrit en Python.
 
 🧐 Lorsque vous effectuez une recherche Google sur une personne en particulier, vous commencez par taper son nom et son prénom. Seulement, vous tombez rapidement sur des dizaines de réultats n'ayant aucun lien avec votre recherche, mais dont les noms correspondent.
 SearchSomeBody a été créé dans le but de trouver les résultats qui ont VRAIMENT un lien avec votre recherche. 
